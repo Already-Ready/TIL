@@ -7,3 +7,5 @@ Today I Learned
 - baekjoon
   - python
      - [주사위 굴리기_14499번](https://already-ready.github.io/2019/12/27/%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0-14499%EB%B2%88/)
+
+     - [Fly me to the Alpha Centauri_1011번](https://already-ready.github.io/2019/12/30/Fly%20me%20to%20the%20Alpha%20Centauri/)
