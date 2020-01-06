@@ -16,4 +16,9 @@ Today I Learned
 
 - 블로그 (github.io)
   - [github.io 블로그에 댓글창 만들기](https://already-ready.github.io/2020/01/03/hexo%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%8C%93%EA%B8%80%EC%B0%BD%EB%A7%8C%EB%93%A4%EA%B8%B0-icarus%ED%85%8C%EB%A7%88/)
-   
+
+
+
+
+- Go tutorial
+  - [Go 정리하기 - 1](https://already-ready.github.io/2020/01/06/Golang-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-1/)
