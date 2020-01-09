@@ -28,5 +28,6 @@ Today I Learned
   - [Go 정리하기 - 1](https://already-ready.github.io/2020/01/06/Golang-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-1/)
   - [Go 정리하기 - 2](https://already-ready.github.io/2020/01/07/Golang-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-2/)
   - [Go 정리하기 - 3](https://already-ready.github.io/2020/01/08/Golang-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-3/)
+  - [Go 정리하기 - 4](https://already-ready.github.io/2020/01/09/Golang-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-4/)
   
   
