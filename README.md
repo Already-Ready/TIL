@@ -13,9 +13,11 @@ Today I Learned
     - [블랙잭](https://already-ready.github.io/2020/01/03/%EB%B8%94%EB%9E%99%EC%9E%AD-2798%EB%B2%88/)
     - [택시 기하학](https://already-ready.github.io/2020/01/03/%ED%83%9D%EC%8B%9C%EA%B8%B0%ED%95%98%ED%95%99-3053%EB%B2%88/)
     - [분해합](https://already-ready.github.io/2020/01/08/%EB%B6%84%ED%95%B4%ED%95%A9-2231%EB%B2%88/)  
+    - [스택_10828번] (https://already-ready.github.io/2020/01/15/%EC%8A%A4%ED%83%9D-10828%EB%B2%88/)
     
   - Go
     - [분해합](https://already-ready.github.io/2020/01/08/%EB%B6%84%ED%95%B4%ED%95%A9-2231%EB%B2%88/)  
+    - [스택_10828번)(https://already-ready.github.io/2020/01/15/%EC%8A%A4%ED%83%9D-10828%EB%B2%88/)
      
 
 - 블로그 (github.io)
@@ -29,5 +31,9 @@ Today I Learned
   - [Go 정리하기 - 2](https://already-ready.github.io/2020/01/07/Golang-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-2/)
   - [Go 정리하기 - 3](https://already-ready.github.io/2020/01/08/Golang-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-3/)
   - [Go 정리하기 - 4](https://already-ready.github.io/2020/01/09/Golang-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-4/)
+  
+  
+- About Go
+  - [for문에서 string 사용하기](https://already-ready.github.io/2020/01/15/for%EB%AC%B8%EC%97%90%EC%84%9C-string-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
   
   
