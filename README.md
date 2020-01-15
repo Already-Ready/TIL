@@ -14,11 +14,12 @@ Today I Learned
     - [택시 기하학](https://already-ready.github.io/2020/01/03/%ED%83%9D%EC%8B%9C%EA%B8%B0%ED%95%98%ED%95%99-3053%EB%B2%88/)
     - [분해합](https://already-ready.github.io/2020/01/08/%EB%B6%84%ED%95%B4%ED%95%A9-2231%EB%B2%88/)  
     - [스택_10828번](https://already-ready.github.io/2020/01/15/%EC%8A%A4%ED%83%9D-10828%EB%B2%88/)  
+    - [영화감독 숌_1436번](https://already-ready.github.io/2020/01/15/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C-1436%EB%B2%88/)
     
   - Go
     - [분해합](https://already-ready.github.io/2020/01/08/%EB%B6%84%ED%95%B4%ED%95%A9-2231%EB%B2%88/)  
     - [스택_10828번](https://already-ready.github.io/2020/01/15/%EC%8A%A4%ED%83%9D-10828%EB%B2%88/)  
-     
+    - [영화감독 숌_1436번](https://already-ready.github.io/2020/01/15/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C-1436%EB%B2%88/)
 
 - 블로그 (github.io)
   - [github.io 블로그에 댓글창 만들기](https://already-ready.github.io/2020/01/03/hexo%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%8C%93%EA%B8%80%EC%B0%BD%EB%A7%8C%EB%93%A4%EA%B8%B0-icarus%ED%85%8C%EB%A7%88/)  
