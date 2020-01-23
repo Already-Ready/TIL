@@ -40,5 +40,8 @@ Today I Learned
   
 - About Go
   - [for문에서 string 사용하기](https://already-ready.github.io/2020/01/15/for%EB%AC%B8%EC%97%90%EC%84%9C-string-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
-  
+
+- CS basic
+  - [시간 복잡도(big-O)](https://already-ready.github.io/2020/01/23/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84-big-O/)
+
   
