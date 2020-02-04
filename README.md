@@ -43,5 +43,10 @@ Today I Learned
 
 - CS basic
   - [시간 복잡도(big-O)](https://already-ready.github.io/2020/01/23/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84-big-O/)
+  
+  - CtCI
+    - [Ch1. 배열과 문자열](https://already-ready.github.io/2020/01/30/CtCI-Ch1-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%AC%B8%EC%9E%90%EC%97%B4/)
+      - ㄹ
+    - [Ch3. 스택과 큐](https://already-ready.github.io/2020/02/04/CtCI-Ch3-%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90/)
 
   
