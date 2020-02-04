@@ -46,7 +46,8 @@ Today I Learned
   
   - CtCI
     - [Ch1. 배열과 문자열](https://already-ready.github.io/2020/01/30/CtCI-Ch1-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%AC%B8%EC%9E%90%EC%97%B4/)
-      - ㄹ
+      - [Ch1. 문제 풀이](https://github.com/Already-Ready/CtCI_Python/tree/master/Ch_1)
     - [Ch3. 스택과 큐](https://already-ready.github.io/2020/02/04/CtCI-Ch3-%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90/)
+      - [Ch3. 문제 풀이](https://github.com/Already-Ready/CtCI_Python/tree/master/Ch_3)
 
   
