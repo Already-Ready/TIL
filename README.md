@@ -49,5 +49,5 @@ Today I Learned
       - [Ch1. 문제 풀이](https://github.com/Already-Ready/CtCI_Python/tree/master/Ch_1)
     - [Ch3. 스택과 큐](https://already-ready.github.io/2020/02/04/CtCI-Ch3-%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90/)
       - [Ch3. 문제 풀이](https://github.com/Already-Ready/CtCI_Python/tree/master/Ch_3)
-
-  
+    - [Ch4. 트리와 그래프 - 트리](https://already-ready.github.io/2020/02/12/CtCI-Ch4-%ED%8A%B8%EB%A6%AC%EC%99%80-%EA%B7%B8%EB%9E%98%ED%94%84/)  
+    - [Ch4. 트리와 그래프 - 그래프](https://already-ready.github.io/2020/02/12/CtCI-Ch4-%ED%8A%B8%EB%A6%AC%EC%99%80-%EA%B7%B8%EB%9E%98%ED%94%84-2/)  
