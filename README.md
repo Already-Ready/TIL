@@ -52,4 +52,6 @@ Today I Learned
     - [Ch4. 트리와 그래프 - 트리](https://already-ready.github.io/2020/02/12/CtCI-Ch4-%ED%8A%B8%EB%A6%AC%EC%99%80-%EA%B7%B8%EB%9E%98%ED%94%84/)  
     - [Ch4. 트리와 그래프 - 그래프](https://already-ready.github.io/2020/02/12/CtCI-Ch4-%ED%8A%B8%EB%A6%AC%EC%99%80-%EA%B7%B8%EB%9E%98%ED%94%84-2/)  
       - [Ch4. 문제 풀이](https://github.com/Already-Ready/CtCI_Python/tree/master/Ch_4)
+    - [Ch5. 비트 조작](https://already-ready.github.io/2020/03/04/CtCI-Ch5-%EB%B9%84%ED%8A%B8-%EC%A1%B0%EC%9E%91/)
+      - [Ch5. 문제 풀이](https://github.com/Already-Ready/CtCI_Python/tree/master/Ch_5)
    
