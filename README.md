@@ -9,6 +9,11 @@ Today I Learned
     - [Logistic regression](https://already-ready.github.io/2020/04/08/Pytorch-Logistic-regression/)
     - [Multi Layer Perceptron(MLP)](https://already-ready.github.io/2020/04/10/Pytorch-Multi-Layer-Perceptron-MLP/)
     - [Softmax Classificaton](https://already-ready.github.io/2020/04/13/Pytorch-Softmax-classification/)
+    
+- Python
+  - [missing 메서드에 관하여](https://already-ready.github.io/2020/03/17/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-missing-%EB%A9%94%EC%84%9C%EB%93%9C%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
+  - [파이썬 dataframe 각 row에 function을 apply하는 방법에 대하여](https://already-ready.github.io/2020/03/24/%ED%8C%8C%EC%9D%B4%EC%8D%AC-dataframe-function-apply-%EB%B0%A9%EB%B2%95-without-iterrrows/)
+  - [dataframe 인덱싱하기](https://already-ready.github.io/2020/03/29/%ED%8C%8C%EC%9D%B4%EC%8D%AC-dataframe-loc-iloc-%EC%9D%B8%EB%8D%B1%EC%8B%B1/)
 
 - CtCI
   - [Ch1. 배열과 문자열](https://already-ready.github.io/2020/01/30/CtCI-Ch1-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%AC%B8%EC%9E%90%EC%97%B4/)
