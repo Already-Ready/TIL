@@ -1,6 +1,15 @@
 # TIL
 Today I Learned
 
+-Pytorch
+  - pytorch zero to all
+    - [Linear regression](https://already-ready.github.io/2020/04/02/Pytorch-Linear-regression-%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%A6%AC/)
+    - [Multivariable Linear regression](https://already-ready.github.io/2020/04/06/Pytorch-Multivariable-Linear-regression/)
+    - [data loading](https://already-ready.github.io/2020/04/07/Pytorch-data-loading-with-DataLoader/)
+    - [Logistic regression](https://already-ready.github.io/2020/04/08/Pytorch-Logistic-regression/)
+    - [Multi Layer Perceptron(MLP)](https://already-ready.github.io/2020/04/10/Pytorch-Multi-Layer-Perceptron-MLP/)
+    - [Softmax Classificaton](https://already-ready.github.io/2020/04/13/Pytorch-Softmax-classification/)
+
   - CtCI
     - [Ch1. 배열과 문자열](https://already-ready.github.io/2020/01/30/CtCI-Ch1-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%AC%B8%EC%9E%90%EC%97%B4/)
       - [Ch1. 문제 풀이](https://github.com/Already-Ready/CtCI_Python/tree/master/Ch_1)
