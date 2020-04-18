@@ -11,6 +11,7 @@ Today I Learned
     - [Softmax Classificaton](https://already-ready.github.io/2020/04/13/Pytorch-Softmax-classification/)
     - [About ReLU](https://already-ready.github.io/2020/04/14/Pytorch-ReLU/)
     - [Weight initialization](https://already-ready.github.io/2020/04/16/Pytorch-weight-initialization/)
+    - [Dropout](https://already-ready.github.io/2020/04/18/Pytorch-Dropout/)
     
 - Python
   - [missing 메서드에 관하여](https://already-ready.github.io/2020/03/17/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-missing-%EB%A9%94%EC%84%9C%EB%93%9C%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
