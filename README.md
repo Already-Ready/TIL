@@ -18,6 +18,7 @@ Today I Learned
   - [missing 메서드에 관하여](https://already-ready.github.io/2020/03/17/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-missing-%EB%A9%94%EC%84%9C%EB%93%9C%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
   - [파이썬 dataframe 각 row에 function을 apply하는 방법에 대하여](https://already-ready.github.io/2020/03/24/%ED%8C%8C%EC%9D%B4%EC%8D%AC-dataframe-function-apply-%EB%B0%A9%EB%B2%95-without-iterrrows/)
   - [dataframe 인덱싱하기](https://already-ready.github.io/2020/03/29/%ED%8C%8C%EC%9D%B4%EC%8D%AC-dataframe-loc-iloc-%EC%9D%B8%EB%8D%B1%EC%8B%B1/)
+  - [Visdom 포트 변경하기](https://already-ready.github.io/2020/04/25/%ED%8C%8C%EC%9D%B4%EC%8D%AC-visdom-port-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0/)
 
 - CtCI
   - CS basic
