@@ -15,6 +15,7 @@ Today I Learned
     - [Batch Normalization](https://already-ready.github.io/2020/04/21/Pytorch-Batch-Normalization/)
     - [Convolution layer](https://already-ready.github.io/2020/04/30/Pytorch-Convolution-layer/)
     - [MNIST에 CNN 적용하기](https://already-ready.github.io/2020/05/01/Pytorch-MNIST-CNN/)
+    - [CNN - Visdom을 통해 Loss Plot그리기](https://already-ready.github.io/2020/05/06/Pytorch-visdom%EC%9C%BC%EB%A1%9C-Loss-plot%EA%B7%B8%EB%A6%AC%EA%B8%B0/)
     
 - Python
   - [missing 메서드에 관하여](https://already-ready.github.io/2020/03/17/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-missing-%EB%A9%94%EC%84%9C%EB%93%9C%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
