@@ -19,6 +19,7 @@ Today I Learned
     - [ImageFolder를 통해 데이터 불러오기](https://already-ready.github.io/2020/05/07/Pytorch-ImageFolder/)  
     - [VGG 모델의 생성과정 살펴보기](https://already-ready.github.io/2020/05/12/Pytorch-About-VGG-Advance-CNN/)
     - [CIFAR10에 VGG 모델 적용하기](https://already-ready.github.io/2020/05/14/Pytorch-VGG-with-CIFAR10/)
+    - [About SGD - SGD에 대하여](https://already-ready.github.io/2020/05/24/Pytorch-About-SGD/)
     
 - Python
   - [missing 메서드에 관하여](https://already-ready.github.io/2020/03/17/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-missing-%EB%A9%94%EC%84%9C%EB%93%9C%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
